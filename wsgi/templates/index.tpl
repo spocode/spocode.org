@@ -10,21 +10,18 @@
         </style>
     </head>
     <body>
-    <img src="http://i.imgur.com/zdLdK81.png" alt="">
-    <div class="d25">
-        <nav>
-            <h2>Pitch Your Ideas</h2>
-            <p><a href="http://bit.ly/WGClk2">Google Moderator</a></p>
-            <h2>Chat with others on IRC</h2>
-            <p><code>irc.freenode.net #spocode</code></p>
-            <p><a href="http://webchat.freenode.net">Webchat.freenode.net</a></p>
-            <h2>Twitter</h2>
-            <p><code>Hashtag #spocode</code></p>
-        </nav>
-    </div>
-    <div class='d75'>
-        <img src="http://i.imgur.com/MGXblmm.jpg" alt="">
-    </div>
-
+        <img src="http://i.imgur.com/zdLdK81.png" alt="spocode">
+        <div class="d25">
+            <nav>
+                <h2>Pitch Your Ideas</h2>
+                <p><a href="http://bit.ly/WGClk2">Google Moderator</a></p>
+                <h2>Chat with others on IRC</h2>
+                <p><code>irc.freenode.net #spocode</code></p>
+                <p><a href="http://webchat.freenode.net">Webchat.freenode.net</a></p>
+                <h2>Twitter</h2>
+                <p><code>Hashtag #spocode</code></p>
+            </nav>
+        </div>
+        <img src="http://i.imgur.com/XcmXXpu.jpg" alt="openshift">
     </body>
 </html>
