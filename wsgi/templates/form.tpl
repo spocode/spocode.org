@@ -7,7 +7,7 @@
         <title>SpoCode Hackathon New Page</title>
         <link rel=stylesheet href="/static/style.css">
         <script type="text/javascript" src="/static/jquery.min.js "></script>
-        <script type="text/javascript" src="/static/alpaca.min.js"></script>
+        <script type="text/javascript" src="/static/Alpaca.js"></script>
         <link type="text/css" href="/static/alpaca.min.css" rel="stylesheet"/>
         <style>
         </style>
@@ -31,31 +31,30 @@
     <div id="form1"></div>
 
 
-        <script>
-    jQuery(document).ready(function($){
-        $("#form1").alpaca({
-        "schema": {
-        "title":"User Feedback",
-        "description":"What do you think about Alpaca?",
-        "type":"object",
-        "properties": {
-        "name": {
-        "type":"string",
-        "title":"Name"
-        },
-        "feedback": {
-        "type":"string",
-        "title":"Feedback"
-        },
-        "ranking": {
-        "type":"string",
-        "title":"Ranking",
-        "enum":['excellent','ok','so so']
-        }
-        }
-        }
+    <script>
+    jQuery(document).ready(function(){
+        jQuery("#form1").alpaca({
+            "schema": {
+                "title":"User Feedback",
+                "description":"What do you think about Alpaca?",
+                "type":"object",
+                "properties": {
+                    "name": {
+                        "type":"string",
+                        "title":"Name"
+                    },
+                    "feedback": {
+                        "type":"string",
+                        "title":"Feedback"
+                    },
+                    "ranking": {
+                        "type":"string",
+                        "title":"Ranking",
+                        "enum":['excellent','ok','so so']
+                    }
+                }
+            }
         });
-
     });
     </script>
 
