@@ -24,7 +24,7 @@
         </nav>
     </div>
     <div class="d75">
-        {{body}}
+        <h1>hi</h1>
     </div>
 
     </body>

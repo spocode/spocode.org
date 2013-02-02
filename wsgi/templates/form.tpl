@@ -5,9 +5,11 @@
         <meta name=description content="">
         <meta name=viewport content="width=device-width, initial-scale=1">
         <title>SpoCode Hackathon New Page</title>
-        <link rel=stylesheet href="static/style.css">
+        <link rel=stylesheet href="/static/style.css">
+        <script type="text/javascript" src="/static/jquery.min.js "></script>
+        <script type="text/javascript" src="/static/alpaca.min.js"></script>
+        <link type="text/css" href="/static/alpaca.min.css" rel="stylesheet"/>
         <style>
-            body{width:960px; margin:20px auto;font-family:sans-serif;}
         </style>
     </head>
     <body>
@@ -26,73 +28,34 @@
     <div class='d75'>
 
 
-    <div id="form1">
-    </div>
-    <script type="text/javascript">
-    $(function() {
-    $("#form1").alpaca({
-    "data": {
-    "name": "Britney Spears",
-    "feedback": "Alpaca is very cute.",
-    "ranking": "excellent"
-    },
-    "schema": {
-    "title":"User Feedback",
-    "description":"What do you think about Alpaca?",
-    "type":"object",
-    "properties": {
-    "name": {
-    "type":"string",
-    "title":"Name",
-    "required":true
-    },
-    "feedback": {
-    "type":"string",
-    "title":"Feedback"
-    },
-    "ranking": {
-    "type":"string",
-    "title":"Ranking",
-    "enum":['excellent','ok','so so'],
-    "required":true
-    }
-    }
-    },
-    "options": {
-    "renderForm":true,
-    "form":{
-    "attributes":{
-    "action":"examples/endpoints/save.php",
-    "method":"post"
-    },
-    "buttons":{
-    "submit":{}
-    }
-    },
-    "helper": "Tell us what you think about Alpaca!",
-    "fields": {
-    "name": {
-    "size": 20,
-    "helper": "Please enter your name."
-    },
-    "feedback" : {
-    "type": "textarea",
-    "name": "your_feedback",
-    "rows": 5,
-    "cols": 40,
-    "helper": "Please enter your feedback."
-    },
-    "ranking": {
-    "type": "select",
-    "helper": "Select your ranking.",
-    "optionLabels": ["Awesome!",
-    "It's Ok",
-    "Hmm..."]
-    }
-    }
-    },
-    "view" : "VIEW_WEB_EDIT_LIST"
-    });
+    <div id="form1"></div>
+
+
+        <script>
+    jQuery(document).ready(function($){
+        $("#form1").alpaca({
+        "schema": {
+        "title":"User Feedback",
+        "description":"What do you think about Alpaca?",
+        "type":"object",
+        "properties": {
+        "name": {
+        "type":"string",
+        "title":"Name"
+        },
+        "feedback": {
+        "type":"string",
+        "title":"Feedback"
+        },
+        "ranking": {
+        "type":"string",
+        "title":"Ranking",
+        "enum":['excellent','ok','so so']
+        }
+        }
+        }
+        });
+
     });
     </script>
 
