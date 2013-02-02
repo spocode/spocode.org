@@ -6,9 +6,6 @@
         <meta name=viewport content="width=device-width, initial-scale=1">
         <title>SpoCode Hackathon New Page</title>
         <link rel=stylesheet href="/static/style.css">
-        <script type="text/javascript" src="/static/jquery.min.js "></script>
-        <script type="text/javascript" src="/static/alpaca.js"></script>
-        <link type="text/css" href="/static/alpaca.min.css" rel="stylesheet"/>
         <style>
         </style>
     </head>
@@ -26,40 +23,7 @@
         </nav>
     </div>
     <div class='d75'>
-
-
-    <div id="form1"></div>
-
-
-    <script>
-    jQuery(document).ready(function(){
-        jQuery("#form1").alpaca({
-            "schema": {
-                "title":"User Feedback",
-                "description":"What do you think about Alpaca?",
-                "type":"object",
-                "properties": {
-                    "name": {
-                        "type":"string",
-                        "title":"Name"
-                    },
-                    "feedback": {
-                        "type":"string",
-                        "title":"Feedback"
-                    },
-                    "ranking": {
-                        "type":"string",
-                        "title":"Ranking",
-                        "enum":['excellent','ok','so so']
-                    }
-                }
-            }
-        });
-    });
-    </script>
-
-
-
+        <img src="http://pic.twitter.com/vlFBmTEh" alt="">
     </div>
 
     </body>

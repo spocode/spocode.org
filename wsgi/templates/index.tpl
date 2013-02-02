@@ -4,10 +4,9 @@
         <meta charset=utf-8>
         <meta name=description content="">
         <meta name=viewport content="width=device-width, initial-scale=1">
-        <title>SpoCode Hackathon</title>
-        <link rel=stylesheet href="../../static/style.css">
+        <title>SpoCode Hackathon New Page</title>
+        <link rel=stylesheet href="/static/style.css">
         <style>
-            body{width:960px; margin:20px auto;font-family:sans-serif;}
         </style>
     </head>
     <body>
@@ -23,8 +22,8 @@
             <p><code>Hashtag #spocode</code></p>
         </nav>
     </div>
-    <div class="d75">
-        <h1>hi</h1>
+    <div class='d75'>
+        <img src="http://pic.twitter.com/vlFBmTEh" alt="">
     </div>
 
     </body>
