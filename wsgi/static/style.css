@@ -17,7 +17,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
 }
 
 .d25 {
@@ -25,7 +24,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
 }
 
 .d33{
@@ -33,7 +31,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
 }
 
 .d50 {
@@ -41,7 +38,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
 }
 
 .d66{
@@ -49,7 +45,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
 }
 
 .d75 {
@@ -57,8 +52,6 @@ a:hover{color:black;}
     display: inline-block;
     padding: 0 10px;
     overflow: hidden;
-    float: left;
-    outline:1px solid red;
 }
 
 .column {

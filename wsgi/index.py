@@ -23,9 +23,4 @@ def index():
     return bottle.template('index')
 
 
-@bottle.get('/newpage/')
-def index():
-    return bottle.template('form')
-
-
 application = bottle.default_app()

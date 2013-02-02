@@ -23,7 +23,7 @@
         </nav>
     </div>
     <div class='d75'>
-        <img src="http://pic.twitter.com/vlFBmTEh" alt="">
+        <img src="http://i.imgur.com/MGXblmm.jpg" alt="">
     </div>
 
     </body>
