@@ -13,12 +13,12 @@
     <body>
     <img src="http://i.imgur.com/zdLdK81.png" alt="">
     <h2>Pitch Your Ideas</h2>
-    <code>http://bit.ly/WGClk2</code>
+    <p><a href="http://bit.ly/WGClk2">Google Moderator</a></p>
     <h2>Chat with others on IRC</h2>
-    <code>irc.freenode.net #spocode</code>
-    <code>webchat.freenode.net</code>
+    <p><code>irc.freenode.net #spocode</code></p>
+    <p><a href="http://webchat.freenode.net">Webchat.freenode.net</a></p>
     <h2>Twitter</h2>
-    <code>Hashtag #spocode</code>
+    <p><code>Hashtag #spocode</code></p>
 
 
     </body>
