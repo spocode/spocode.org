@@ -31,7 +31,7 @@
         <li><a href='http://github.com/'>Sign up for a free GitHub account</a></li>
         <li><a href='http://github.com/new'>Create an empty GitHub repo (no README or other starter files)</a></li>
         <li>Push your OpenShift project to GitHub
-        <br/><code>git remote add github git@github.com:GITHUB_USERNAME/PROJECT_NAME.git</code></p>
+        <br/><code>git remote add github git@github.com:GITHUB_USERNAME/PROJECT_NAME.git</code>
         <br/><code>git push github</code>
         </li>
       </ol>
