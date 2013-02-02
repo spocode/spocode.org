@@ -41,6 +41,7 @@
       <li>Push to OpenShift: <br/><code>git push</code></li>
     </ol>
     
-    <h3>ng to Openshift</h3>
+    <h3>For those who started with a GitHub project first</h3>
+    <p>If you started with Github (instead of OpenShift), contact <a href='http://twitter.com/ryanj'>@ryanj</a> for help merging your existing code into an OpenShift app for free hosting.</p>
     </body>
 </html>
