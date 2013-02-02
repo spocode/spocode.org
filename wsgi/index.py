@@ -18,6 +18,12 @@ bottle.TEMPLATE_PATH.append(os.path.join(os.environ['OPENSHIFT_REPO_DIR'],
                                                 'wsgi', 'templates'))
 
 
+@bottle.get('/shift/')
+@bottle.get('/shift')
+def shift():
+
+    return bottle.template('open')
+
 @bottle.get('/')
 def index():
 
