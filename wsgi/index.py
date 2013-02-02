@@ -20,8 +20,12 @@ bottle.TEMPLATE_PATH.append(os.path.join(os.environ['OPENSHIFT_REPO_DIR'],
 
 @bottle.get('/')
 def index():
-    return bottle.template('index', body=body)
+    return bottle.template('index')
 
+
+@bottle.get('/newpage/')
+def index():
+    return bottle.template('form')
 
 
 application = bottle.default_app()
