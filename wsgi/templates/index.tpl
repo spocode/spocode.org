@@ -14,15 +14,21 @@
         <img src="http://i.imgur.com/zdLdK81.png" alt="spocode">
         <div class="d25">
             <nav>
-                <h2>Pitch Your Ideas</h2>
-                <p><a href="http://bit.ly/WGClk2">Google Moderator</a></p>
-                <h2>Chat with others on IRC</h2>
+                <h2>Twitter</h2>
+                <p><code>Hashtag <a href='https://twitter.com/search?q=%23SpoCode&src=hash'>#spocode</a></code></p>
+                <h2>IRC Chat</h2>
                 <p><code>irc.freenode.net #spocode</code></p>
                 <p><a href="http://webchat.freenode.net">Webchat.freenode.net</a></p>
-                <h2>Twitter</h2>
-                <p><code>Hashtag #spocode</code></p>
+                <h2>Project Ideas</h2>
+                <p><a href="http://bit.ly/WGClk2">Google Moderator</a></p>
+                <h2>Project Deployment Tips</h2>
+                <p><a href="/open">OpenShift help</a></p>
+                <h2>GitHub Project Source</h2>
+                <p><code><a href='https://github.com/spocode/'>#Spocode on GitHub</a></code></p>
+                <h2>Application Demos</h2>
+                <p><a href='http://demo.spocode.org/'>Team / App name</a></code></p>
+                <p><a href='http://demo2.spocode.org/'>Team / App name</a></code></p>
             </nav>
         </div>
-        <img src="http://i.imgur.com/XcmXXpu.jpg" alt="openshift">
     </body>
 </html>
