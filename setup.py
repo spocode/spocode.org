@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='spocode',
       version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
-      url='http://www.python.org/sigs/distutils-sig/',
-#      install_requires=['Django>=1.3'],
+      description='Website for SpoCode Hackathon',
+      author='Dan Gayle',
+      author_email='dangayle@gmail.com',
+      url='http://www.spocode.org',
+      install_requires=['Bottle', 'Pymongo'],
      )
