@@ -30,7 +30,6 @@ def shift():
 
 @bottle.get('/')
 def index():
-
     return bottle.template('index')
 
 
