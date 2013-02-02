@@ -15,17 +15,13 @@ mongo_db = mongo_con[os.environ['OPENSHIFT_APP_NAME']]
 mongo_db.authenticate(os.environ['OPENSHIFT_MONGODB_DB_USERNAME'],
                             os.environ['OPENSHIFT_MONGODB_DB_PASSWORD'])
 bottle.TEMPLATE_PATH.append(os.path.join(os.environ['OPENSHIFT_REPO_DIR'],
-                                                'wsgi', 'views'))
+                                                'wsgi', 'templates'))
 
 
 @bottle.get('/')
 def index():
-    '''
-    Create home page.
-    TODO: Add more info
-    '''
+
 
     return "hi"
-
 
 application = bottle.default_app()
