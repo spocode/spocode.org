@@ -7,7 +7,7 @@
         <title>SpoCode Hackathon New Page</title>
         <link rel=stylesheet href="/static/style.css">
         <script type="text/javascript" src="/static/jquery.min.js "></script>
-        <script type="text/javascript" src="/static/Alpaca.js"></script>
+        <script type="text/javascript" src="/static/alpaca.js"></script>
         <link type="text/css" href="/static/alpaca.min.css" rel="stylesheet"/>
         <style>
         </style>
