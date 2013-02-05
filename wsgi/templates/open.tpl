@@ -11,9 +11,9 @@
         </style>
     </head>
     <body>
-    <img src="http://i.imgur.com/zdLdK81.png" alt="SpoCode">
+    <a href='/'><img src="http://i.imgur.com/zdLdK81.png" alt="SpoCode"></a>
     <h2>Openshift Help</h2>
-    <a href='/'><img src="http://i.imgur.com/XcmXXpu.jpg" alt="openshift"/></a>
+    <img src="http://i.imgur.com/XcmXXpu.jpg" alt="openshift"/>
     <h3>Openshift Setup</h3>
       <ol>
         <li><a href='https://openshift.redhat.com/app/account/new'>Sign up for a free OpenShift Online account</a></li>
