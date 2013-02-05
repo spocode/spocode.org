@@ -11,8 +11,8 @@
         </style>
     </head>
     <body>
-        <img src="http://i.imgur.com/zdLdK81.png" alt="spocode">
-        <div class="d25">
+        <a href='/'><img src="http://i.imgur.com/zdLdK81.png" alt="spocode"></a>
+        <div>
             <nav>
                 <h2>Applications</h2>
                 <p><a href='/apps'>SpoCode finalists</a></p>
@@ -23,7 +23,7 @@
                 <h2>Deployment Tips</h2>
                 <p><a href="/openshift">OpenShift notes</a></p>
                 <h2>Project Ideas</h2>
-                <p><a href="http://bit.ly/WGClk2">Suggest and vote on projects here</a></p>
+                <p><a href="http://bit.ly/WGClk2">Suggest projects, and vote for your favorite ideas</a></p>
                 <h2>Twitter</h2>
                 <p><code>Hashtag <a href='https://twitter.com/search?q=%23SpoCode&src=hash'>#spocode</a></code></p>
                 <h2>IRC / group chat</h2>

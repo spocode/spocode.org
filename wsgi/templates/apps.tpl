@@ -11,9 +11,8 @@
         </style>
     </head>
     <body>
-        <img src="http://i.imgur.com/zdLdK81.png" alt="spocode">
-        <div class="d25">
-            <nav>
+        <a href='/'><img src="http://i.imgur.com/zdLdK81.png" alt="spocode"></a>
+        <div>
                 <h2>Application Demos</h2>
                 <p>SpoCode finished with TEN amazing app demos!  Congratulations to all who participated.</p>
                 <p>If your project is publicly available, please check to make sure the link below is accurate:</p>
@@ -83,7 +82,6 @@
                   <br/>
                   <a href='#'>live demo</a>, <a href='#'>source</a>
                 </p>
-            </nav>
         </div>
     </body>
 </html>
