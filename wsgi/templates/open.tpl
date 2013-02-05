@@ -40,7 +40,10 @@
       <li>Pull the latest from GitHub: <br/><code>git pull github</code></li>
       <li>Push to OpenShift: <br/><code>git push</code></li>
     </ol>
-    
+    <h3>Domain aliasing</h3>
+    <p>You can configure your OpenShift app to run on a domain name that you have purchased.  Notes are available here: <a href='https://openshift.redhat.com/community/faq#t2n55'></a>.</p>
+    <br/>  
+  
     <h3>For those who started with a GitHub project first</h3>
     <p>If you started with Github (instead of OpenShift), contact <a href='http://twitter.com/ryanj'>@ryanj</a> for help merging your existing code into an OpenShift app for free hosting.</p>
     </body>
