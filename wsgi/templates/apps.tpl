@@ -50,7 +50,7 @@
                 <p>
                   Map-based visualization and reporting for issues that need to be fixed in your neighborhood.
                   <br/>
-                  <a href='#'>live demo</a>, <a href='https://github.com/spocode/Issue-Report'>source</a>
+                  <a href='http://dev-spocode.gotpantheon.com'>live demo</a>, <a href='https://github.com/spocode/Issue-Report'>source</a>
                 </p>
                 <h3>My Neighborhood Watch</h3>
                 <p>
