@@ -41,7 +41,7 @@
       <li>Push to OpenShift: <br/><code>git push</code></li>
     </ol>
     <h3>Domain aliasing</h3>
-    <p>You can configure your OpenShift app to run on a domain name that you have purchased.  Notes are available here:<br/><a href='https://openshift.redhat.com/community/faq#t2n55'>https://openshift.redhat.com/community/faq#t2n55</a>.</p>
+    <p>You can configure your OpenShift app to run on a domain name that you have purchased.  Notes on that topic are available here:<br/><a href='https://openshift.redhat.com/community/faq#t2n55'>https://openshift.redhat.com/community/faq#t2n55</a></p>
     <br/>  
   
     <h3>For those who started with a GitHub project first</h3>
