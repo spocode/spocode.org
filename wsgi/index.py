@@ -28,6 +28,16 @@ def shift():
 
     return bottle.template('open')
 
+@bottle.get('/teams/')
+@bottle.get('/teams')
+@bottle.get('/apps/')
+@bottle.get('/apps')
+@bottle.get('/projects/')
+@bottle.get('/projects')
+def apps():
+
+    return bottle.template('apps')
+
 @bottle.get('/')
 def index():
     return bottle.template('index')
