@@ -74,7 +74,7 @@
                 <p>
                   Tell on your city by reporting local issues.
                   <br/>
-                  <a href='#'>live demo</a>, <a href='https://github.com/spocode/Tattlr'>source</a> <a href='https://github.com/spocode/TattlrApp'>source</a>
+                  <a href='#'>live demo</a>, <a href='https://github.com/spocode/Tattlr'>source</a>, <a href='https://github.com/spocode/TattlrApp'>more source</a>
                 </p>
                 <h3>Budget Vizualizer</h3>
                 <p>
