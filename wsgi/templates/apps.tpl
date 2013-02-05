@@ -5,7 +5,7 @@
         <meta charset=utf-8>
         <meta name=description content="">
         <meta name=viewport content="width=device-width, initial-scale=1">
-        <title>SpoCode Hackathon New Page</title>
+        <title>SpoCode Hackathon - Apps</title>
         <link rel=stylesheet href="/static/style.css">
         <style>
         </style>
@@ -15,7 +15,8 @@
         <div class="d25">
             <nav>
                 <h2>Application Demos</h2>
-                <p>If your project is publicly available, please update the links below:</p>
+                <p>SpoCode finished with TEN amazing app demos!  Congratulations to all who participated.</p>
+                <p>If your project is publicly available, please check to make sure the link below is accurate:</p>
                 <h3>Aqua Vitae</h3>
                 <p>
                   Map-based visualization and analysis of liquor license distribution in Spokane.
