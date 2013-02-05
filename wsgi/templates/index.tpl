@@ -79,7 +79,7 @@
                 <p>
                   Matching volunteers, needs, and local volunteer organizations.
                   <br/>
-                  <a href='#'>live demo</a>, <a href='https://github.com/spocode/RubyGroup'>source</a>
+                  <a href='https://spocode-inetdavid.rhcloud.com/'>live demo</a>, <a href='https://github.com/spocode/RubyGroup'>source</a>
                 </p>
                 <h3>tattlr</h3>
                 <p>
