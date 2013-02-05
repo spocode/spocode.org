@@ -14,8 +14,8 @@
         <a href='/'><img src="http://i.imgur.com/zdLdK81.png" alt="spocode"></a>
         <div>
                 <h2>Application Demos</h2>
-                <p>SpoCode finished with TEN amazing app demos!  Congratulations to all who participated.</p>
-                <p>If your project is publicly available, please check to make sure the link below is accurate:</p>
+                <p>SpoCode finished with TEN amazing app demos!  Congratulations to all who participated!!</p>
+                <p>If your project is publicly available, please check to make sure the links below are accurate:</p>
                 <h3>Aqua Vitae</h3>
                 <p>
                   Map-based visualization and analysis of liquor license distribution in Spokane.
