@@ -16,7 +16,7 @@
     <img src="http://i.imgur.com/XcmXXpu.jpg" alt="openshift"/>
     <h3>Openshift Setup</h3>
       <ol>
-        <li><a href='https://openshift.redhat.com/app/account/new'>Sign up for a free OpenShift Online account</a></li>
+        <li><a href='https://openshift.redhat.com/app/account/new?web_user[promo_code]=spocode'>Sign up for a free OpenShift Online account</a></li>
         <li><a href='https://openshift.redhat.com/community/developers/install-the-client-tools'>Install the rhc (Red Hat Cloud) command line tools: <br/><code>sudo gem install rhc</code></a></li>
         <li><a href='https://openshift.redhat.com/community/get-started#cli'>Configure your local machine to connect to your OpenShift Online account: <br/><code>rhc setup</code></a></li>
       </ol>
