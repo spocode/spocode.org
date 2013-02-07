@@ -76,11 +76,11 @@
                   <br/>
                   <a href='#'>live demo</a>, <a href='https://github.com/spocode/Tattlr'>source</a>, <a href='https://github.com/spocode/TattlrApp'>more source</a>
                 </p>
-                <h3>Budget Vizualizer</h3>
+                <h3>Budget Visualizer</h3>
                 <p>
-                  Helping increase transparency and understanding for Spokane's city budget.
+                  Helping increase transparency and understanding for Spokane's city budget with an interactive, graphical breakdown.
                   <br/>
-                  <a href='#'>live demo</a>, <a href='#'>source</a>
+                  <a href='http://budget-mstokes.rhcloud.com/'>live demo</a>, <a href='#'>source</a>
                 </p>
         </div>
     </body>
