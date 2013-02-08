@@ -80,7 +80,7 @@
                 <p>
                   Helping increase transparency and understanding for Spokane's city budget with an interactive, graphical breakdown.
                   <br/>
-                  <a href='http://budget-mstokes.rhcloud.com/'>live demo</a>, <a href='#'>source</a>
+                  <a href='http://budget-mstokes.rhcloud.com/'>live demo</a>, <a href='https://github.com/spocode/spokane-budget'>source</a>
                 </p>
         </div>
     </body>
